@@ -7,7 +7,6 @@ Overview:
 - This project combines data science, journalism, and social analysis.
 
 Categories:
-Each response is coded into one of the following categories:
 1. Food opinion
 2. Political
 3. Gender/Dating
